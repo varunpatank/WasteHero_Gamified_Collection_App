@@ -33,7 +33,7 @@ export default function VerifyWastePage() {
     
     // Simulating AI verification process
     setTimeout(() => {
-      // This is where you would integrate with Galadriel or your AI service
+      // This is where you would integrate ai service
       const mockResult = {
         wasteType: 'Plastic',
         quantity: '2.5 kg',
